@@ -1,0 +1,15 @@
+# Site settings
+title: Nguyễn Hoài Anh Nhi
+tag_text: nhimeow
+description: ✨Energy Flows Where Intention Goes✨
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://nhimeow.com"
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
